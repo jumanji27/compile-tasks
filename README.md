@@ -1,11 +1,11 @@
-Environment:
+### Environment:
 
 - ruby (>1.8)
 - gems:
 
   `gem install rake sass coffee-script --no-rdoc --no-ri`
 
-<br>
+### Tasks:
 
 `rake compile:all` — compile all assets successively
 
