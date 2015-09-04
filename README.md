@@ -1,6 +1,6 @@
 ### Environment:
 
-- ruby (>1.8)
+- Ruby (1.8)
 - gems:
 
   `gem install rake sass coffee-script --no-rdoc --no-ri`
